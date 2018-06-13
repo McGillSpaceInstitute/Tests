@@ -1,1 +1,5 @@
 wazzup
+<<<<<<< HEAD
+=======
+wazzup
+>>>>>>> f69a1fcf5f77ca46f64372dd626e4f0dc2520d0b
